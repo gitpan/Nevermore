@@ -1,0 +1,10 @@
+Changes
+lib/Curse.pm
+lib/Mojo.pm
+lib/Nevermore.pm
+lib/Voodoo.pm
+Makefile.PL
+MANIFEST			This list of files
+README
+t/use.t
+META.yml                                 Module meta-data (added by MakeMaker)
